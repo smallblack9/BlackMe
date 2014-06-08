@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlackMe</string>
+    <string name="appwidget_text">Hi :D</string>
+    <string name="add_widget">Set String</string>
+    <string name="configure">Configure</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_reboot_dialog">RebootDialogActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
